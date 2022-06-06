@@ -1,2 +1,3 @@
 # LGrossiC-dev.github.io
-Currículo Jornada DEV EBAC
+
+Protejo pessoal: cúrriculo on-line.
